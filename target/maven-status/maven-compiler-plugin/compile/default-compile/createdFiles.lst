@@ -1,0 +1,11 @@
+br/com/juliorodrigues/todolist/errors/ExceptionHandlerController.class
+br/com/juliorodrigues/todolist/TodolistApplication.class
+br/com/juliorodrigues/todolist/task/TaskController.class
+br/com/juliorodrigues/todolist/user/UserModel.class
+br/com/juliorodrigues/todolist/task/Level.class
+br/com/juliorodrigues/todolist/user/IUserRepository.class
+br/com/juliorodrigues/todolist/user/UserController.class
+br/com/juliorodrigues/todolist/task/ITaskRepository.class
+br/com/juliorodrigues/todolist/task/TaskModel.class
+br/com/juliorodrigues/utils/Utils.class
+br/com/juliorodrigues/todolist/filter/FilterTaskAuth.class

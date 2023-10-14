@@ -1,0 +1,10 @@
+/Users/juulhao/Desktop/Projetos/Java/java-api-todo-list/src/main/java/br/com/juliorodrigues/utils/Utils.java
+/Users/juulhao/Desktop/Projetos/Java/java-api-todo-list/src/main/java/br/com/juliorodrigues/todolist/TodolistApplication.java
+/Users/juulhao/Desktop/Projetos/Java/java-api-todo-list/src/main/java/br/com/juliorodrigues/todolist/user/IUserRepository.java
+/Users/juulhao/Desktop/Projetos/Java/java-api-todo-list/src/main/java/br/com/juliorodrigues/todolist/task/TaskController.java
+/Users/juulhao/Desktop/Projetos/Java/java-api-todo-list/src/main/java/br/com/juliorodrigues/todolist/filter/FilterTaskAuth.java
+/Users/juulhao/Desktop/Projetos/Java/java-api-todo-list/src/main/java/br/com/juliorodrigues/todolist/user/UserModel.java
+/Users/juulhao/Desktop/Projetos/Java/java-api-todo-list/src/main/java/br/com/juliorodrigues/todolist/task/TaskModel.java
+/Users/juulhao/Desktop/Projetos/Java/java-api-todo-list/src/main/java/br/com/juliorodrigues/todolist/task/ITaskRepository.java
+/Users/juulhao/Desktop/Projetos/Java/java-api-todo-list/src/main/java/br/com/juliorodrigues/todolist/user/UserController.java
+/Users/juulhao/Desktop/Projetos/Java/java-api-todo-list/src/main/java/br/com/juliorodrigues/todolist/errors/ExceptionHandlerController.java
